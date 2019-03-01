@@ -1,6 +1,5 @@
-MASORI BANK:
 
-# Título del trabajo
+# MASORI BANK
 Aplicación para telefóno móvil que te permite acceder a tu cuenta bancaria y realizar diferentes operaciones.
 
 ## Integrantes del equipo
