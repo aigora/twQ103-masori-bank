@@ -1,11 +1,18 @@
-# Título del trabajo
+MASORI BANK:
 
-Descripción breve del proyecto a realizar (2-3 frases).
+# Título del trabajo
+Aplicación para telefóno móvil que te permite acceder a tu cuenta bancaria y realizar diferentes operaciones.
 
 ## Integrantes del equipo
-
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Rita Villalba Roncal (rita.villalbar@alumnos.ump.es)
+Maria Cruz Batista Gil (mc.batista@alumnos.upm.es)
+Sonia Somolinos Bravo (sonia.somolinosb@alumnos.upm.es)
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Registro de cuenta con contraseña.
+Consultar los detalles de todos los movimientos en tus cuentas bancarias.
+Búsqueda de oficinas y cajeros cercanos.
+Realizar tranferencias.
+Opciones del perfil.
+
