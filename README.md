@@ -3,9 +3,9 @@
 Aplicación para telefóno móvil que te permite acceder a tu cuenta bancaria y realizar diferentes operaciones.
 
 ## Integrantes del equipo
-Rita Villalba Roncal (rita.villalbar@alumnos.ump.es)
-Maria Cruz Batista Gil (mc.batista@alumnos.upm.es)
-Sonia Somolinos Bravo (sonia.somolinosb@alumnos.upm.es)
+Rita Villalba Roncal (@RitaLaCantaora)
+Maria Cruz Batista Gil (@Maricrussi)
+Sonia Somolinos Bravo (@VivaAsturiaas)
 
 ## Objetivos del trabajo
 
